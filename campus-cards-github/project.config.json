@@ -1,0 +1,5 @@
+{
+  "projectname": "campus-cards-minigame",
+  "compileType": "game",
+  "setting": { "es6": true }
+}
